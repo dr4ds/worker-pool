@@ -1,6 +1,6 @@
 # Example
 
-```
+```go
 import (
 	"fmt"
 	"math/rand"
